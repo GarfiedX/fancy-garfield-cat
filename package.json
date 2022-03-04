@@ -1,0 +1,23 @@
+{
+  "name": "fancy-garfield-cat",
+  "version": "1.0.5",
+  "description": "Unlimited Fancy Text Generator By Garfields CAt And Sarith Vimukthi",
+  "main": "fancy-amdi-sew.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarfiedX/fancy-garfield-cat"
+  },
+  "author": "Black Amda | Ravindu Manoj",
+  "license": "GNU",
+  "dependencies": {
+    
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/GarfiedX/fancy-garfield-cat/issues"
+  },
+  "homepage": "https://github.com/GarfiedX/fancy-garfield-cat#readme"
+}
